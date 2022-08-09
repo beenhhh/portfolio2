@@ -437,7 +437,6 @@ a{
 @media ( max-width: 767px ) {
 
 header{
-
   width: 100%;
   height: 60px;
   background: rgba(255,255,255,.3);
@@ -448,8 +447,8 @@ header{
 
 
 header ul{
-  margin-left: 2em;
-  
+  margin:   auto 2em;
+
 }
 
   header ul li{
@@ -461,7 +460,7 @@ header ul{
   }
 
   header ul li a{
-    font-size: 18px;
+    font-size: 14px;
     font-weight: 400;
     letter-spacing: 2px;
     color: #fefefe;
