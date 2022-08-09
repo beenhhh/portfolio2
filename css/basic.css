@@ -455,7 +455,7 @@ header ul{
     float: left;
     margin-top: 20px;
     margin-right: 10px;
-
+    white-space:nowrap;
 
   }
 
