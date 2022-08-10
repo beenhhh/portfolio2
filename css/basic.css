@@ -114,10 +114,6 @@ a{
 
 
 
-.section2_txt{
-  
-}
-
 .section2_txt p{
   color: #fefefe;
   margin-left: 2em;
@@ -290,26 +286,12 @@ a{
   color: #fefefe;
 }
 
-.swiper-slide a{
 
-}
 
 
 
 /**** section4 ****/
 
-.swiper-wrapper{
-  
-}
-
-.swiper-slide{
-  
-}
-
-.work1 img{
-  width:600px ;
-  height: 600px;
-}
 
 .work_img img{
   width: 500px;
@@ -326,6 +308,7 @@ a{
 
 .work_txt span{
   color:#fff;
+  word-spacing:5px
 }
 
 .work_txt a{
@@ -335,6 +318,7 @@ a{
   border-radius: 10px;
   transition: 0.3s;
   margin-left: 10px;
+
 }
 
 .swiper-slide a:hover{
@@ -478,6 +462,7 @@ header ul{
 .work_txt a{
   margin-left: 5px;
   font-size: 14px;
+  white-space:nowrap;
 }
 
 
@@ -489,6 +474,8 @@ header ul{
   border-radius: 5px;
   transition: 0.3s;
 }
+
+
 
 
 }      
