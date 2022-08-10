@@ -7,6 +7,7 @@ new fullpage('#fullpage', {
   autoScrolling: true,
   responsiveWidth:600,
 
+  
 });
 
 

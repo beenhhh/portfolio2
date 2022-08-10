@@ -44,7 +44,7 @@ a{
   }
 
 /**** section1 ****/
-        #section1{
+        #s1{
           font-family: 'Fira Sans', sans-serif;
           font-size: 5vw;
           line-height: 70px;
@@ -53,14 +53,14 @@ a{
         }
         
         
-        #section1 > ul {
+        #s1 > ul {
         
           list-style: none;
           white-space: nowrap;
           
         }
 
-        #section1 ul li{
+        #s1 ul li{
           padding:10px ;
           letter-spacing: 2px;
           margin: auto 1em;
@@ -69,11 +69,9 @@ a{
         
       
 /****  about-section2 ****/
-#section2{
 
-}
 
-#section2 img{
+#s2 img{
   max-width:100%;
   transition: .3s ease-in-out;
 }
@@ -81,7 +79,7 @@ a{
 
 
 
-#section2 span{
+#s2 span{
   font-family: 'Fira Sans', sans-serif;
   font-size: 20px;
   margin-left: 3em;
@@ -126,7 +124,7 @@ a{
 }
 
 /***  skill / section3 - bar) ****/
-#section3 h1{
+#s3 h1{
   font-family: "Monument";
     font-size: 20px;
     letter-spacing: 2px;
