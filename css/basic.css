@@ -329,12 +329,12 @@ a{
 }
 
 .work_txt a{
-
   padding: 10px 20px;
   color:#fff;
   border:1px solid #fff;
   border-radius: 10px;
   transition: 0.3s;
+  margin-left: 10px;
 }
 
 .swiper-slide a:hover{
@@ -476,7 +476,19 @@ header ul{
 }
 
 .work_txt a{
-  white-space:wrap;
+  margin-left: 5px;
+  font-size: 14px;
+}
+
+
+.work_txt .txt6 a{
+  white-space:nowrap;
+  padding: 5px 5px;
+  
+  color:#fff;
+  border:1px solid #fff;
+  border-radius: 5px;
+  transition: 0.3s;
 }
 
 
