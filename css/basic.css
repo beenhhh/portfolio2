@@ -79,7 +79,7 @@ a{
 
 
 
-#s2 span{
+#s2 .about{
   font-family: 'Fira Sans', sans-serif;
   font-size: 20px;
   margin-left: 3em;
@@ -108,16 +108,19 @@ a{
 .section2_img img{
   width: 300px;
   height: 400px;
-
-  
 }
-
 
 
 .section2_txt p{
   color: #fefefe;
   margin-left: 2em;
+  margin-right: 2em;
   line-height: 22px;
+}
+
+.under{
+  font-size: 16px;
+  background:linear-gradient(180deg,rgba(255,255,255,0) 50%, #7c51e9 50%);
 }
 
 /***  skill / section3 - bar) ****/
