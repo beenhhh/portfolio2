@@ -309,7 +309,6 @@ Not supports in Firefox and IE */
 }
 .fp-warning,
 .fp-watermark{
-    display: none;
     z-index: 9999999;
     position: absolute;
     bottom: 0;

@@ -373,8 +373,9 @@ a{
 }
 
 .icon{
-  display: block;
+  display:block;
   margin: auto;
+  text-align: center;
 }
 
 .icon img{

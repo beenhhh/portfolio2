@@ -2,10 +2,11 @@
 
 new fullpage('#fullpage', {
   sectionsColor: ['#9baec8', '#34495E  ', '#1C2833', '#1C2833', '#e3e0e0'],
-  anchors: ['s1', 's2', 's3', 's4', 's5'],
+  anchors: ['1st', 'second', '3rd', '4th', '5th'],
   menu: '.gnb',
   autoScrolling: true,
   responsiveWidth:600,
+  licenseKey: 'YOUR_KEY_HERE',
 
   
 });
